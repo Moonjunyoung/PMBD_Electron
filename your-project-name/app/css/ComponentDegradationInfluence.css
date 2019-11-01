@@ -1,0 +1,12 @@
+#root-box {
+  display: flex;
+  width: 600px;
+  height: 500px;
+}
+.title {
+  text-align: center;
+  font-size: 30px;
+}
+.kn-multi_select__wrapper___30BEc {
+  width: 500px;
+}
